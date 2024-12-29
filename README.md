@@ -1,5 +1,5 @@
 ## Hi there 👋
-It's test words on my Github peofile.
+It's test word on my Github peofile.
 <!--
 **Qlihua/Qlihua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
